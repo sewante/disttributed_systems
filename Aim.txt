@@ -1,0 +1,4 @@
+This project shows the one of the possible implementation of distributed systesm programing for Remote Procedure Calls (RPC) in Windows environment
+it uses the wimsoc 2 library for RPC.
+
+It achieves the tasks described in task.pdf file (in this same directory)
